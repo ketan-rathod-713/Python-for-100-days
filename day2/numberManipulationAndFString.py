@@ -8,5 +8,5 @@ print(result)
 # += -= *= /= and so on 
 
 # F string
-print("your score is "+ str(result))
+print("your score is "+ str(result))  # This is the tidious task so use f string , put f in start 
 print(f"your score is {result}")
