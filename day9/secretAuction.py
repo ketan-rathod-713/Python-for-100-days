@@ -1,4 +1,4 @@
-
+# 14 july
 biddersList = {
     "name":23
 }
