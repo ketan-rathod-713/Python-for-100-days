@@ -1,16 +1,5 @@
-# This is a sample Python script.
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# Now whenver working with pycharm add .gitignore file with the two folders specified and then start coding 
+# and each time making project track the day number as the project title so that i helps further to document the python coding journey
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# Now program of coffee machine
