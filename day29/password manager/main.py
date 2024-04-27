@@ -3,6 +3,8 @@ from random import *
 
 import pyperclip
 
+# Until now we were storing data in different formate but it is not good formate, so let's store data in JSON formate
+# Then we can use write read and update operations in python
 
 # Password Generator Project
 
